@@ -1,0 +1,18 @@
+#changepassform
+{
+	padding-left:20%;
+}
+#changepassform label
+{
+	font-size: 1.1em;
+	font-weight: bold;
+}
+#changepassform input
+{
+	border: 1px solid black;
+	border-radius: 5px;
+}
+#changepassform input:hover
+{
+	border:1px solid red;
+}

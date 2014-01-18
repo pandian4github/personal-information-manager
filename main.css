@@ -1,0 +1,437 @@
+BODY
+{
+    MARGIN: 0px auto;
+    background-color:saddlebrown;
+    HEIGHT: 100%;
+    COLOR: #000099;
+}
+.header
+{	
+    margin-top:30px;
+	FONT: 1.8em sans-serif;
+	color:white;
+}
+.registerapp
+{
+	font:1.6em sans-serif;
+}
+.content
+{
+	background:whitesmoke;
+	margin-left:275px;
+	border:2px solid black;
+	border-radius:25px;
+	width:60%;
+	height:600px;
+}
+#textin
+{
+	color:white;
+	letter-spacing:1px;
+}
+#kuruk
+{
+	padding-left:17%;
+}
+#ceg
+{
+	padding-left:15%;
+}
+#entryhead
+{
+	font-size:2em;
+	margin-left:320px;
+	color:brown;
+}
+#entrytable
+{	
+	margin-top:20px;
+	padding-left:120px;
+}
+#entrytable td
+{
+	padding-right:20px;
+	padding-bottom:10px;
+	font-size:1.2em;
+}
+#entrytable input
+{
+	border:1px solid black;
+	border-radius:5px;
+}
+#entrytable select
+{
+	border:1px solid black;
+}
+#submitbutton
+{
+	padding-bottom:3px;
+	background-color:blue;
+	color:white;
+	width:80px;
+	height:25px;
+	font-weight:bold;
+	border:1px solid black;
+	border-radius:15px;
+	letter-spacing:1px;
+}
+#submitbutton:hover
+{
+	cursor:pointer;
+	background-color:brown;
+}
+.visible
+{
+	visibility:visible;
+}
+.hidden
+{
+	visibility:hidden;
+}
+
+#makeanentry
+{
+	position:absolute;
+	margin-top:60px;
+	margin-left:80px;
+	width:110px;
+	height:25px;
+	background:darkgrey;
+	line-height:160%;
+	border:1px solid white;
+	border-radius:5px;
+}
+#makeanentry:hover
+{
+	background-color:dimgray;
+}
+#makeanentry a
+{
+	padding-left:8px;
+	text-decoration:none;
+	color:black;
+}
+#makeanentry a:hover
+{
+	color:white;
+}
+#viewstudent
+{
+	position:absolute;
+	margin-top:120px;
+	margin-left:60px;
+	width:150px;
+	height:25px;
+	background:darkgrey;
+	line-height:160%;
+	border:1px solid white;
+	border-radius:5px;
+}
+#viewstudent:hover
+{
+	background-color:dimgray;
+}
+#viewstudent a
+{
+	padding-left:8px;
+	text-decoration:none;
+	color:black;
+}
+#viewstudent a:hover
+{
+	color:white;
+}
+
+#viewdetails
+{
+	position:absolute;
+	margin-top:177px;
+	margin-left:80px;
+	width:110px;
+	height:25px;
+	background:darkgrey;
+	line-height:160%;
+	border:1px solid white;
+	border-radius:5px;
+}
+#viewdetails:hover
+{
+	background-color:dimgray;
+}
+#viewdetails a
+{
+	padding-left:7px;
+	text-decoration:none;
+	color:black;
+}
+#viewdetails a:hover
+{
+	color:white;
+}
+
+#evaluatestudent
+{
+	position:absolute;
+	margin-top:230px;
+	margin-left:70px;
+	width:130px;
+	height:25px;
+	background:darkgrey;
+	line-height:160%;
+	border:1px solid white;
+	border-radius:5px;
+}
+#evaluatestudent:hover
+{
+	background-color:dimgray;
+}
+#evaluatestudent a
+{
+	padding-left:8px;
+	text-decoration:none;
+	color:black;
+}
+#evaluatestudent a:hover
+{
+	color:white;
+}
+
+#filterstudent
+{
+	position:absolute;
+	margin-top:280px;
+	margin-left:80px;
+	width:110px;
+	height:25px;
+	background:darkgrey;
+	line-height:160%;
+	border:1px solid white;
+	border-radius:5px;
+}
+#filterstudent:hover
+{
+	background-color:dimgray;
+}
+#filterstudent a
+{
+	padding-left:8px;
+	text-decoration:none;
+	color:black;
+}
+#filterstudent a:hover
+{
+	color:white;
+}
+
+.quicklinks
+{
+	position:absolute;
+	margin-top:20px;
+	margin-left:1170px;
+	font-size:1.2em;
+	color:white;
+}
+#kurukshetra 
+{
+	position:absolute;
+	margin-top:60px;
+	margin-left:1160px;
+	width:110px;
+	height:25px;
+	background:darkgrey;
+	line-height:160%;
+	border:1px solid white;
+	border-radius:5px;
+}
+#kurukshetra:hover
+{
+	background:dimgrey;
+}
+#kurukshetra a
+{
+	text-decoration:none;
+	margin-left:8px;
+	color:black;
+}
+#kurukshetra a:hover
+{
+	color:white;
+}
+
+#timeline
+{
+	position:absolute;
+	margin-top:110px;
+	margin-left:1160px;
+	width:110px;
+	height:25px;
+	background:darkgrey;
+	line-height:160%;
+	border:1px solid white;
+	border-radius:5px;
+}
+#timeline:hover
+{
+	background:dimgrey;
+}
+#timeline a
+{
+	text-decoration:none;
+	margin-left:25px;
+	color:black;
+}
+#timeline a:hover
+{
+	color:white;
+}
+
+#teaser
+{
+	position:absolute;
+	margin-top:160px;
+	margin-left:1160px;
+	width:110px;
+	height:25px;
+	background:darkgrey;
+	line-height:160%;
+	border:1px solid white;
+	border-radius:5px;
+}
+#teaser:hover
+{
+	background:dimgrey;
+}
+#teaser a
+{
+	text-decoration:none;
+	margin-left:30px;
+	color:black;
+}
+#teaser a:hover
+{
+	color:white;
+}
+#followuson
+{
+	position:absolute;
+	margin-top:210px;
+	margin-left:1160px;
+	font-size:1.2em;
+	color:white;
+}
+#facebook
+{
+	position:absolute;
+	margin-top:250px;
+	margin-left:1160px;
+	width:110px;
+	height:25px;
+	background:darkgrey;
+	line-height:160%;
+	border:1px solid white;
+	border-radius:5px;
+}
+#facebook:hover
+{
+	background:dimgrey;
+}
+#facebook a
+{
+	text-decoration:none;
+	margin-left:24px;
+	color:black;
+}
+#facebook a:hover
+{
+	color:white;
+}
+
+#youtube
+{
+	position:absolute;
+	margin-top:300px;
+	margin-left:1160px;
+	width:110px;
+	height:25px;
+	background:darkgrey;
+	line-height:160%;
+	border:1px solid white;
+	border-radius:5px;
+}
+#youtube:hover
+{
+	background:dimgrey;
+}
+#youtube a
+{
+	text-decoration:none;
+	margin-left:28px;
+	color:black;
+}
+#youtube a:hover
+{
+	color:white;
+}
+
+#twitter
+{
+	position:absolute;
+	margin-top:350px;
+	margin-left:1160px;
+	width:110px;
+	height:25px;
+	background:darkgrey;
+	line-height:160%;
+	border:1px solid white;
+	border-radius:5px;
+}
+#twitter:hover
+{
+	background:dimgrey;
+}
+#twitter a
+{
+	text-decoration:none;
+	margin-left:30px;
+	color:black;
+}
+#twitter a:hover
+{
+	color:white;
+}
+#entrysuccess
+{
+	text-align:center;
+	padding-top:30px;
+	font-size:2.5em;
+	text-decoration:blink;
+	color:brown;
+}
+#nameerror, #rollnoerror, #batcherror, #phoneerror, #mailiderror
+{
+	color:red;
+	font-size:0.8em;
+	padding-left:10px;
+}
+#optional
+{
+	font-size:12px;
+	color:red;
+	padding-left:10px;
+}
+#logout
+{
+	position:absolute;
+	left:1000px;
+	top:145px;
+	color:white;
+	font-size:1.2em;
+}
+#changepass
+{
+	position:absolute;
+	left:300px;
+	top:145px;
+	color:white;
+	font-size:1.2em;
+}

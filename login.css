@@ -1,0 +1,23 @@
+#main-content
+{
+	height: 400px;
+}
+#loginform
+{
+	padding-top: 50px;
+	padding-left:25%;
+}
+#loginform label
+{
+	font-size: 1.2em;
+	font-weight: bold;
+}
+#loginform input
+{
+	border:1px solid black;
+	border-radius: 5px;
+}
+#loginform input:hover
+{
+	border:1px solid red;
+}
